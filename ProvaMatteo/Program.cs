@@ -7,6 +7,8 @@ namespace ProvaMatteo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello ciao da Ajla!");
+
         }
     }
 }
